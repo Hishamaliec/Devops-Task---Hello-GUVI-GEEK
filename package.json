@@ -1,0 +1,11 @@
+{
+  "name": "hello-guvi-geek",
+  "version": "1.0.0",
+  "description": "Simple Node.js application for DevOps task",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js"
+  },
+  "author": "",
+  "license": "ISC"
+}
