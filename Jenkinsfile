@@ -6,7 +6,7 @@ pipeline {
         DOCKER_IMAGE_NAME = "${DOCKER_HUB_USERNAME}/hello-guvi-geek"
         DOCKER_TAG = "build-${env.BUILD_NUMBER}"
         DOCKER_PUSH_USERNAME = 'hishamali' 
-        DOCKER_PUSH_PASSWORD = 'dckr_pat_5nI4n5tbhf-JMUfa_kXUIXsxrEA' 
+        DOCKER_PUSH_PASSWORD = 'dckr_pat_CWCTBOsXYyawBqQ9iMc-TRfeFHs' 
     }
 
     stages {
