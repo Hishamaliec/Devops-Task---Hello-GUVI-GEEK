@@ -19,6 +19,7 @@ The pipeline automates the following steps on every code commit:
 <img src="https://github.com/Hishamaliec/Devops-Task---Hello-GUVI-GEEK/blob/main/screenshots/screenshot-2025-10-08_07-42-38.png" alt="Banner" />
 <img src="https://github.com/Hishamaliec/Devops-Task---Hello-GUVI-GEEK/blob/main/screenshots/screenshot-2025-10-08_07-43-08.png" alt="Banner" />
 <img src="https://github.com/Hishamaliec/Devops-Task---Hello-GUVI-GEEK/blob/main/screenshots/screenshot-2025-10-08_07-43-53.png" alt="Banner" />
+<img src="https://github.com/Hishamaliec/Devops-Task---Hello-GUVI-GEEK/blob/main/screenshots/screenshot-2025-10-08_08-48-15.png" alt="Banner" />
 
 ---
 
