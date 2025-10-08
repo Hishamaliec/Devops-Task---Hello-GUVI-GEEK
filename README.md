@@ -14,8 +14,8 @@ The pipeline automates the following steps on every code commit:
 
 ## 2. Final Pipeline Screenshot
 
-[**Insert your screenshot of the successful Jenkins Stage View here**]
-*(The image should clearly show all stages (Checkout, Build, Test, Push) marked as green/successful.)*
+<img src="https://github.com/Hishamaliec/Devops-Task---Hello-GUVI-GEEK/blob/main/assets/screenshot-2025-10-08_07-41-44.png" alt="Banner" />
+
 
 ---
 
